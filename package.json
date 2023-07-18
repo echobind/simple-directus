@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "directus": "^10.4.3"
+  },
+  "name": "simple-directus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "directus build",
+    "start": "directus start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
