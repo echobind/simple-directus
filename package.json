@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "build": "directus build",
+    "build": "directus bootstrap",
     "start": "directus start"
   },
   "keywords": [],
